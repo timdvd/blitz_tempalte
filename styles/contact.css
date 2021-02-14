@@ -1,0 +1,38 @@
+.contact-block{
+    padding: 40px 0;
+    width: 100%;
+    position: relative;
+}
+.contact-block p{
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 18px;
+    color: #464646;
+    font-family: 'Montserrat', sans-serif;
+}
+.contact-form_block{
+    margin: 50px 0;
+}
+.contact-form input{
+    background-color: #fafafa;
+    border: 1px solid #eeeeee;
+    font-size: 18px;
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 400;
+}
+#comment{
+    background-color: #fafafa;
+    border: 1px solid #eeeeee;
+    font-size: 18px;
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 400;
+}
+.btn-submit{
+    margin-top: 20px;
+    border: none;
+    background-color: transparent;
+    font-size: 18px;
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 400;
+    color: #464646;
+}

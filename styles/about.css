@@ -1,0 +1,110 @@
+.about_us{
+    position: relative;
+    width: 100%;
+    padding: 50px 0;
+    background-color: #ffffff;
+}
+.about_us h3{
+    color: #474747;
+}
+.about_us h5{
+    font-style: italic;
+    color: #9e9e9e;
+    margin-top: 15px;
+    line-height: 24px;
+    max-width:800px;
+}
+.about-block{
+    position: relative;
+    width: 100%;
+    margin: 50px 0;
+}
+.about-block h4{
+	color: #474747;
+    font-size: 28px;
+	text-transform: uppercase;
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 400;
+}
+.about-block h5{
+    color: #474747;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+    color: #9e9e9e;
+    font-family: 'Montserrat', sans-serif;
+    font-style: italic;
+    margin-bottom: 15px;
+}
+.about-block p{
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 18px;
+    color: #474747;
+    font-family: 'Montserrat', sans-serif;
+}
+.about_us .col{
+    margin: 0 auto;
+}
+.staff{
+    position: relative;
+    width: 100%;
+    background-color: #ffffff;
+}
+.staff-block{
+    margin: 50px 0;
+    position: relative;
+    width: 100%;
+    border: 1px solid #f8f8f8;
+    padding-bottom: 25px;
+}
+.staff .col{
+    margin: 0 auto;
+}
+.staff-image{
+    position: relative;
+    width: 100%;
+    min-width: 135px;
+}
+.staff-image img{
+    width: 100%;
+    height: 100%;
+}
+.staff-manager{
+    padding: 15px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.staff-name h4{
+    color: #474747;
+    font-size: 28px;
+	text-transform: uppercase;
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 400;
+}
+.staff-name h5{
+    color: #949393;
+	text-transform: uppercase;
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 400;
+    font-size: 18px;
+}
+.staff-number{
+    color: #474747;
+    font-size: 18px;
+	text-transform: uppercase;
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 400;
+}
+.staff-desc{
+    padding: 0 15px;
+    width: 100%;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 16px;
+    color: #474747;
+    font-family: 'Montserrat', sans-serif;
+}

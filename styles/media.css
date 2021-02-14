@@ -1,0 +1,50 @@
+@media screen and (max-width: 1024px){
+
+}
+/* styles for max width of 960px */
+@media screen and (max-width: 992px){
+    .shop-banners__container{
+        flex-direction: column;
+    }
+    .shop-banner{
+        width: 80%;
+        margin: 10px 0;
+    }
+}
+/* styles for max width of 767px */
+@media screen and (max-width: 767px){
+    .container{
+        max-width: 100%;
+    }
+    .blog-block_desc-info{
+        flex-direction: row;
+    }
+    .blog-info_block{
+        margin-right: 35px;
+    }
+    .navigation-bar{
+        display: none;
+    }
+    .sidebar{
+		display: block;
+    }
+}
+/* styles for max width of 656px */
+@media screen and (max-width: 666px){
+
+}
+/* styles for max width of 556px */
+@media screen and (max-width: 556px){
+
+}
+/* styles for max width of 480px */
+@media screen and (max-width: 480px){
+
+}
+/* styles for min width of 767px */
+@media screen and (min-width: 767px){
+    .container{
+        margin: 0 auto;
+        width: 70%;
+    }
+}
